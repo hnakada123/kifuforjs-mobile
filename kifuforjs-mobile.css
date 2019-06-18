@@ -1,0 +1,71 @@
+.kifuforjs {
+   width: 312px;
+}
+
+.kifuforjs table.ban{
+   margin-bottom: 0px;
+   max-width:  345px;
+}
+.kifuforjs div.mochi div.mochimain{
+   height: 70px;
+   width: 312px;
+}
+.kifuforjs div.players{
+   width: 100%;
+}
+.kifuforjs ul.inline{
+   width: unset;
+   display: block;
+   padding-left: 0;
+}
+.kifuforjs > tbody > tr > td > div.mochi {
+   height: 100%;
+   width: 312px;
+}
+.kifuforjs > tbody > tr > td > div.mochi > div.mochimain{
+	height: 70px;
+}
+.kifuforjs ul.inline.go button, .kifuforjs ul.inline.go input, .kifuforjs ul.inline.tools button{
+    font-size: 18px;
+    height: 27px;
+    width: 50px;
+    min-width: 25px;
+    width: auto;
+}
+.kifuforjs ul.inline button{
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    padding: 0em 0.5em;
+    text-decoration: none;
+    color: #FFF;
+    background: #00bcd4;
+    transition: .4s;
+    border-radius: 5px;
+}
+.board{
+    max-width:312px;
+}
+.kifuforjs textarea {
+    color: #ff0000;
+    background-color: #ffffff;
+    font-weight: bold;
+    width: 312px;
+}
+.kifuforjs .mochi.info {
+    overflow: scroll;
+    font-size: normal;
+}
+.kifuforjs .mochi.info dl dt{
+    font-weight: 700;
+    clear: both;
+    float: left;
+    margin-right: 3px;
+    background-color: #eee;
+}
+div{
+    text-align: start;
+}
+div.tebanname{
+    text-align: center;
+}
